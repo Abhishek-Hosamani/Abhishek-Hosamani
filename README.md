@@ -1,52 +1,72 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Hosamani</h1>
+<h3 align="center">Software Engineer | Backend Systems | Distributed APIs | Automation & AI Workflows</h3>
 
-<!--
-**Abhishek-Hosamani/Abhishek-Hosamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Hosamani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Hosamani&show_icons=true&theme=tokyonight">
+<p align="center">
+Backend-focused Software Engineer passionate about building scalable systems, distributed APIs, and reliable backend architectures.
 </p>
-<hr>
-<br>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhishek-Hosamani&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+---
+
+## 🚀 About Me
+
+- 🔭 Software Engineer at **SproutsAI**
+- ⚙️ Building **AI-powered scheduling & automation systems**
+- 🧠 Interested in **System Design, Distributed Systems, Backend Architecture**
+- 🌱 Currently exploring **Application Security, Cloud Systems & High Scale APIs**
+- 💬 Ask me about **Node.js, Spring Boot, React, Microservices**
+- 📫 **abhihosamani17@gmail.com**
+- 🌐 **abhishekhhosamani.app**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,sql" />
 </p>
-<!-- <p align='center'>
-<!-- <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6> -->
-<!-- </p>  -->
 
-<hr>
-<br>
-
-## Trophies 🏆:
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Hosamani&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
-<hr>
-<br>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Hosamani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Hosamani&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abhishek-Hosamani&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 
+
+<p align="center">
+⭐ From <a href="https://github.com/Abhishek-Hosamani">Abhishek Hosamani</a>
+</p>
