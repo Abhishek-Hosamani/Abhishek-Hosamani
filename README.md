@@ -10,14 +10,16 @@ Backend-focused Software Engineer passionate about building scalable systems, di
 ## 🚀 About Me
 
 - 🔭 Software Engineer at **SproutsAI**
-- ⚙️ Building **AI-powered scheduling & automation systems**
 - 🧠 Interested in **System Design, Distributed Systems, Backend Architecture**
 - 🌱 Currently exploring **Application Security, Cloud Systems & High Scale APIs**
-- 💬 Ask me about **Node.js, Spring Boot, React, Microservices**
 - 📫 **abhihosamani17@gmail.com**
-- 🌐 **abhishekhhosamani.app**
+- 🌐 Portfolio: [abhishek-hosamani.vercel.app](https://abhishek-hosamani.vercel.app/)
 
----
+
+## 🔧 Open Source & Contributions 
+
+Most of my core engineering work is in private repositories at SproutsAI, where I design and build production-grade systems end-to-end. This GitHub showcases selected personal work and experiments.
+
 
 # 🛠 Tech Stack
 
@@ -28,7 +30,7 @@ Backend-focused Software Engineer passionate about building scalable systems, di
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" /> 
 </p>
 
 ### Frontend
@@ -38,7 +40,7 @@ Backend-focused Software Engineer passionate about building scalable systems, di
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" />
 </p>
 
 ### Tools
@@ -46,16 +48,6 @@ Backend-focused Software Engineer passionate about building scalable systems, di
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Hosamani&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Hosamani&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -67,6 +59,3 @@ Backend-focused Software Engineer passionate about building scalable systems, di
 
 
 
-<p align="center">
-⭐ From <a href="https://github.com/Abhishek-Hosamani">Abhishek Hosamani</a>
-</p>
